@@ -1,4 +1,4 @@
-package com.gtan.basic;
+package com.gtan.reflect;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

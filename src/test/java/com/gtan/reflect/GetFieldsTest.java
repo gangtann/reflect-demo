@@ -1,4 +1,4 @@
-package com.gtan.basic;
+package com.gtan.reflect;
 
 import com.gtan.annotation.MyAnnotation;
 import org.junit.jupiter.api.Test;

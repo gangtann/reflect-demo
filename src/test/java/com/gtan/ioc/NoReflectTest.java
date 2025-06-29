@@ -1,4 +1,4 @@
-package com.gtan.reflect;
+package com.gtan.ioc;
 
 import com.gtan.entity.Address;
 import com.gtan.entity.Customer;

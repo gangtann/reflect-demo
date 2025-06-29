@@ -1,4 +1,4 @@
-package com.gtan.basic;
+package com.gtan.reflect;
 
 import com.gtan.entity.User;
 import org.junit.jupiter.api.Test;

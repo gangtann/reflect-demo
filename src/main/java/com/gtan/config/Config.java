@@ -1,4 +1,4 @@
-package com.gtan.service;
+package com.gtan.config;
 
 import com.gtan.annotation.Bean;
 import com.gtan.entity.Customer;
